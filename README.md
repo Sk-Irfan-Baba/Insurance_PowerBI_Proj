@@ -1,7 +1,7 @@
 # 🛡️ Unlimited Insurance Co. - Business Intelligence Dashboard
 
-![Power BI Dashboard](image_ba0907.jpg)
-*(Note: Replace 'image_ba0907.jpg' with the actual path to your screenshot in the repo)*
+![Power BI Dashboard](Powerbi_dashboard.png)
+
 
 ## 📌 Project Overview
 This project involves a comprehensive data analysis for "Unlimited Insurance Company." The goal was to transform raw historical data into an interactive dashboard that allows stakeholders to monitor key performance indicators (KPIs) such as Premium generation, Claim settlements, and Coverage distribution across different policy types and demographics.
