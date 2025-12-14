@@ -53,7 +53,4 @@ Unlike a standard Power BI project, this solution mimics a real-world enterprise
 * `Data/`: Contains the sample CSV files (if public) or SQL scripts to generate the schema.
 * `SQL_Scripts/`: Queries used for data validation or transformation.
 * `Insurance_Dashboard.pbix`: The Power BI file.
-
----
-**Author:** [Your Name]  
-**LinkedIn:** [Link to your Profile]
+----
